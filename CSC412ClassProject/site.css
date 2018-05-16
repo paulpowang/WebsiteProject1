@@ -1,0 +1,29 @@
+root { 
+    display: block;
+}
+.centered {
+  text-align: center; 
+}
+.sansSerif{
+    font-family: sans-serif;
+}
+
+.banner{
+    background-image:url(img/the-view-from-the-shard.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.right{
+    float: right;
+
+}
+.row1{
+    background-color: purple;
+    color: white;
+}
+img.icon {
+  width: 100px;
+  height: 100px;
+}
+
